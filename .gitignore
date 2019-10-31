@@ -3,6 +3,9 @@
 # Created by https://www.gitignore.io/api/linux,macos,python,visualstudiocode,windows,virtualenv
 # Edit at https://www.gitignore.io/?templates=linux,macos,python,visualstudiocode,windows,virtualenv
 
+# ignore the client secret
+diceman/secret.txt
+
 ### Linux ###
 *~
 
