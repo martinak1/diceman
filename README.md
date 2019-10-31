@@ -1,8 +1,12 @@
 # diceman - A Discord bot for simulating dice rolls in tabletop games
 
-![License](https://img.shields.io/pypi/l/diceman) [![Build Status](https://travis-ci.org/martinak1/backr.svg?logo=travis&branch=master)](https://travis-ci.org/martinak1/diceman)
+![GitHub](https://img.shields.io/github/license/martinak1/diceman) ![Build Status](https://travis-ci.org/martinak1/diceman)
 
 <!--Add gif of IO-->
+
+## Message Formating
+
+    !d <Number of dice to roll>d<Sides on the dice> <First roll value><Qualifier> <Second roll value><Qualifier> ...
 
 ## Example
 
