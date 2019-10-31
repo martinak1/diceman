@@ -27,7 +27,8 @@ async def on_message(message):
 
 def get_secrets(file: str = 'secret.txt') -> str:
     '''
-    Reads the secrets file for the 
+    Reads the secrets file for the discord client
+    '''
     secret: str = ""
     try:
         with open(file, 'r') as s_file:
